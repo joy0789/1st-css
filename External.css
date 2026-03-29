@@ -1,0 +1,12 @@
+.blog{
+    color: rebeccapurple;
+}
+.seacond{
+    background-color: aqua;
+    border: 5px solid;
+    border-color: violet;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 5px red;
+}
